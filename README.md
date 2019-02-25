@@ -79,9 +79,6 @@ public class ConsumerController {
 }
 ```
 
-## 技术细节
-参见：[自己动手实现一个轻量级的RPC框架](https://www.cnblogs.com/jeysin/p/10429681.html)
-
 ## 关于作者
 
 + Email: `jeysin@qq.com`
